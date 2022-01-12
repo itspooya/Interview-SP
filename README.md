@@ -1,5 +1,7 @@
 # Bot Balancer
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1f3f4a969a7443b485fdd04965be06a7)](https://app.codacy.com/gh/itspooya/Interview-SP?utm_source=github.com&utm_medium=referral&utm_content=itspooya/Interview-SP&utm_campaign=Badge_Grade_Settings)
+
 I'm a bot that will help you balance your bots.
 
 ## How to Use it
